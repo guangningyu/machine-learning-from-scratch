@@ -21,7 +21,7 @@ I believe it is a good way to get better understanding of the algorithms and to 
 - [ ] k-Means Clustering
 
 ## Deep Learning
-- [ ] Neural Network
+- [X] Neural Network
 - [ ] Recurrent Neural Network
 - [ ] Convolutional Neural Networks
 
