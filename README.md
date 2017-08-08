@@ -27,4 +27,4 @@ I believe it is a good way to get better understanding of the algorithms and to 
 
 ## Modeling Tools
 - [ ] Principal Component Analysis
-- [ ] Singular Value Decomposition
+- [X] Singular Value Decomposition
